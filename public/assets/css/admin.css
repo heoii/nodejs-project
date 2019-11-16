@@ -1,3 +1,6 @@
+.login-alert h3{
+  height:20px;
+}
 .nprogress-busy {
   cursor: wait;
 }
